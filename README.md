@@ -6,7 +6,7 @@
 
 [![1С:Предприятие](https://img.shields.io/badge/Платформа-1С:Предприятие%208.3%20%2F%208.5-ffcc00?style=for-the-badge&logo=1c&logoColor=black)](https://v8.1c.ru/)
 [![GitHub](https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Telegram](https://img.shields.io/badge/Telegram-Сообщество-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
+[![Telegram](https://img.shields.io/badge/Telegram-Сообщество-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chupalev_anvar)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 **Живой путеводитель по экосистеме 1С: что учить, в каком порядке и где искать ответы.**
